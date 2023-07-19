@@ -6,7 +6,7 @@
 ![License Badge](https://img.shields.io/github/license/Vvamp/WordleCrack-CLI.svg?)
 # WordleCrack-CLI
 
-Hello there! Welcome to WordleCrack-CLI, a simple Python tool to assist in solving Wordle. This project is created by [Vvamp](https://github.com/Vvamp) and licensed under the MIT license.
+Hello there! Welcome to WordleCrack-CLI, a simple Python tool to assist in solving Wordle. 
 
 WordleCrack-CLI helps you to whittle down the list of possible words in a Wordle game using simple syntax commands. The idea is to narrow down the potential words based on information from the game, like known letters and their positions.
 
