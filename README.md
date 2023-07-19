@@ -1,3 +1,9 @@
+<!-- Project Badges-->
+![Contributors Badge](https://img.shields.io/github/contributors/Vvamp/WordleCrack-CLI.svg?)
+![Forks Badge](https://img.shields.io/github/forks/Vvamp/WordleCrack-CLI.svg?)
+![Stars Badge](https://img.shields.io/github/stars/Vvamp/WordleCrack-CLI.svg?)
+![Issues Badge](https://img.shields.io/github/issues/Vvamp/WordleCrack-CLI.svg?)
+![License Badge](https://img.shields.io/github/license/Vvamp/WordleCrack-CLI.svg?)
 # WordleCrack-CLI
 
 Hello there! Welcome to WordleCrack-CLI, a simple Python tool to assist in solving Wordle. This project is created by [Vvamp](https://github.com/Vvamp) and licensed under the MIT license.
